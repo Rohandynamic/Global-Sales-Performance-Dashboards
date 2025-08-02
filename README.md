@@ -1,125 +1,125 @@
 # Global-Sales-Performance-Dashboards
 
-Project Objective:   
+**Project Objective:**  
 
-To design and build an interactive sales dashboard that offers a comprehensive analysis of global sales performance across multiple dimensions. 
+* To design and build an interactive sales dashboard that offers a comprehensive analysis of global sales performance across multiple dimensions. 
 
  
 
-Project Description: 
+**Project Description:** 
 
 The objective can be broken down into the following detailed components:  
 
-Data Scope & Coverage: 
+**1. Data Scope & Coverage:**
 
  
 
-Geographic Dimensions: 
+* Geographic Dimensions: 
 
-Analysis of sales across continents (e.g., Asia, Europe, North America, etc.). 
+     * Analysis of sales across **continents** (e.g., Asia, Europe, North America, etc.). 
 
-Drill down into individual countries within each continent. 
-
- 
-
-Product Dimensions: 
-
-Categorization by product types or categories (e.g., Electronics, Furniture, Clothing). 
+     * Drill down into individual **countries** within each continent. 
 
  
 
-Time Series Dimensions: 
+* Product Dimensions:
 
-Tracks performance over time using monthly, quarterly, and yearly data to analyze trends. 
+    * Categorization by **product types or categories** (e.g., Electronics, Furniture, Clothing). 
+
+ 
+
+* Time Series Dimensions: 
+
+   * Tracks performance over time using **monthly, quarterly, and yearly** data to analyze trends. 
 
  
 
  
 
-Data Metrics Used: 
+**2. Data Metrics Used:**
 
  
 
-Sales Volume: Total sales amount over selected periods. 
+* Sales Volume: Total sales amount over selected periods. 
 
-Profitability: Net profit or profit margins associated with sales. 
+* Profitability: Net profit or profit margins associated with sales. 
 
-Growth Trends: Comparison of performance over time to identify rising or declining markets. 
-
- 
-
-Key Visual Features & Components: 
+* Growth Trends: Comparison of performance over time to identify **rising or declining markets.** 
 
  
 
- Geographical Map Visualization: 
-
-Highlights sales distribution by continent using heat maps or colored markers. 
+**3. Key Visual Features & Components:**
 
  
 
- Line/Area Charts: 
+ * Geographical Map Visualization: 
 
-Show regional or country-wise sales trends over time for historical comparison. 
-
- 
-
- Bar/Column Charts: 
-
-Used to rank top-performing countries or product categories. 
+     * Highlights **sales distribution by continent** using heat maps or colored markers. 
 
  
 
-Interactive Filters & Slicers: 
+ * Line/Area Charts: 
 
-Allow users to filter data by time period, continent, country, and product category. 
-
- 
-
-KPIs and Summary Cards: 
-
-Display key performance indicators like Total Sales, Average Profit, YOY Growth. 
+   * Show **regional or country-wise sales** trends over time for historical comparison. 
 
  
 
-Project Goals & Use Cases: 
+* Bar/Column Charts: 
+
+     * Used to rank **top-performing countries or product categories** 
 
  
 
-Assist business stakeholders in: 
+* Interactive Filters & Slicers: 
 
-Identifying high-performing regions and markets. 
-
-Monitoring real-time and historical sales trends. 
-
-Comparing performance across regions and categories. 
-
-Making data-driven strategic decisions. 
+  * Allow users to filter data by **time period, continent, country** and **product category.** 
 
  
 
-Technologies & Tools Used: 
+* KPIs and Summary Cards: 
+
+  * Display key performance indicators like **Total Sales, Total Profits.**
 
  
 
-Power BI as the primary visualization platform. 
-
-Provides rich interactivity, user-friendly dashboards, and real-time filtering capabilities. 
+**4. Project Goals & Use Cases:**
 
  
 
-CSV files used as data sources (can later be extended to SQL databases or APIs). 
+* Assist business stakeholders in: 
+
+   * Identifying high-performing regions and markets. 
+
+   * Monitoring real-time and historical sales trends. 
+
+   * Comparing performance across regions and categories. 
+
+   *  Making data-driven strategic decisions. 
 
  
 
-Data preprocessing handled within Power BI or optionally via Power Query Editor or external tools like Python/Pandas. 
+**5. Technologies & Tools Used:** 
 
  
 
-Expected Outcome: 
+* **Power BI** as the primary visualization platform. 
+
+   * Provides **rich interactivity**, user-friendly dashboards, and **real-time filtering** capabilities. 
 
  
 
-A professionally designed dashboard that transforms raw sales data into clear, actionable insights. 
+* **CSV files** used as data sources (can later be extended to SQL databases or APIs). 
 
-Enhances decision-making capabilities of business analysts, sales teams, and top management. 
+ 
+
+* Data preprocessing handled within Power BI or optionally via **Power Query Editor** or external tools like **Python/Pandas.** 
+
+ 
+
+**6. Expected Outcome:**
+
+ 
+
+* A professionally designed dashboard that transforms raw sales data into **clear, actionable insights.** 
+
+* Enhances **decision-making capabilities** of business analysts, sales teams, and top management. 
